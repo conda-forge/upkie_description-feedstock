@@ -29,7 +29,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-upkie_description-green.svg)](https://anaconda.org/conda-forge/upkie_description) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/upkie_description.svg)](https://anaconda.org/conda-forge/upkie_description) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/upkie_description.svg)](https://anaconda.org/conda-forge/upkie_description) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/upkie_description.svg)](https://anaconda.org/conda-forge/upkie_description) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-upkie__description-green.svg)](https://anaconda.org/conda-forge/upkie_description) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/upkie_description.svg)](https://anaconda.org/conda-forge/upkie_description) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/upkie_description.svg)](https://anaconda.org/conda-forge/upkie_description) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/upkie_description.svg)](https://anaconda.org/conda-forge/upkie_description) |
 
 Installing upkie_description
 ============================

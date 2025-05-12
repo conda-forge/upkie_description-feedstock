@@ -1,5 +1,5 @@
 {% set name = "upkie_description" %}
-{% set version = "2.1.0" %}
+{% set version = "2.2.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,12 +7,12 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/upkie_description-{{ version }}.tar.gz
-  sha256: b0f4c62647e0177eda6ad8076e6310ce22889def8f805df98a6bc9e53dcf6c01
+  sha256: 594d37759c2682339bf46f5a5e7ab05f0d3461dad35fd9b640024075a9b552eb
 
 build:
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv --no-deps --no-build-isolation
-  number: 1
+  number: 0
 
 requirements:
   host:
